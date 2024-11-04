@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on `charsheet-rs`: See https://gitlab.com/dreval/charsheet-rs
 - 🌱 I’m currently learning Rust+Leptos+Axum
 - 💬 Ask me about automotive software engineering
-- 📫 How to reach me: [X](https://x.com/semidecidable)
+- 📫 How to reach me: [X](https://x.com/semidecidable) or email
 - ⚡ Fun fact: I hit people with swords
 
 <!--
