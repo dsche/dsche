@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+[![An image of @dsche's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dsche)](https://holopin.io/@dsche)
+
+- 🔭 I’m currently working on `charsheet-rs`: See https://gitlab.com/charsheet-rs
+- 🌱 I’m currently learning Rust+Leptos+Axum
+- 💬 Ask me about automotive software engineering
+- 📫 How to reach me: [X](https://x.com/semidecidable)
+- ⚡ Fun fact: I hit people with swords
+
 <!--
 **dsche/dsche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
